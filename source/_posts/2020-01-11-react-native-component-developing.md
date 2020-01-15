@@ -405,3 +405,7 @@ react-native run-ios
 ```
 
 像往常一样编译和启动我们的app吧
+
+[组件源码](https://github.com/caojianfeng/react-native-protocal-view)
+
+[使用示例](https://github.com/caojianfeng/protocal_view_demo)
