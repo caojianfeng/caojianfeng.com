@@ -22,7 +22,7 @@ scp root@ip:/alidata/server/start_hbase-thrift_all.log start_hbase-thrift_all.lo
 ```
 
 作为一个懒人，通常会配置个免密码登录
-
+<!-- more -->
 ### 配置免密码登录
 
 参考[CentOS 配置SSH免密码登陆](http://www.centoscn.com/CentOS/config/2014/0611/3125.html)

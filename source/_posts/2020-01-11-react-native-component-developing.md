@@ -57,6 +57,7 @@ step 3. 在app中调试组件
 
 step 4. 发布组件
 
+<!-- more -->
 ### step 1. 创建组件工程
 
 FB为我们准备了很好的创建组件的工具react-native-create-library
