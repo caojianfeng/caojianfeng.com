@@ -409,3 +409,5 @@ react-native run-ios
 [组件源码](https://github.com/caojianfeng/react-native-protocal-view)
 
 [使用示例](https://github.com/caojianfeng/protocal_view_demo)
+
+[原始文档链接](https://caojianfeng.com/2020/01/11/react-native-component-developing)
