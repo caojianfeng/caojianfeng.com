@@ -6,4 +6,5 @@ node_modules/
 public/
 .deploy*/
 themes/next
+!public/CNAME
 !themes/next/_config.yml
